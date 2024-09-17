@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Vinícius Gabriel Camillo Paulino</h1>
 <h3 align="center">Apaixonado por tecnologia 👨🏿‍💻 e games 🎮</h3>
 
-- 💬 Me pergunte sobre **HTML, CSS3, JavaScript, C+, Pacote Office, Vegas, Photoshop,**
+- 💬 Me pergunte sobre **HTML, CSS3, JavaScript, C+, Pacote Office, Vegas, Photoshop**
 
 - 📫 Você me acha em: **vinicultor12@gmail.com**
 
